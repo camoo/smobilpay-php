@@ -1,5 +1,5 @@
 {
-    "name": "maviance/smobilpay-php",
+    "name": "camoo/smobilpay-php",
     "description": "Smobilpay Third Party (S3P) API client for PHP",
 
     "keywords": [
@@ -19,6 +19,10 @@
         {
             "name": "maviance",
             "homepage": "https://www.smobilpay.cm"
+        },
+        {
+            "name": "camoo",
+            "homepage": "https://www.camoo.cm"
         }
     ],
     "require": {
